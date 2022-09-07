@@ -35,8 +35,7 @@ O Bootstrap é uma ferramenta gratuita para desenvolvimento HTML, CSS e JS. Crie
 - `Pasta css`:  Tem um arquivo referente a estilização das páginas do projeto;
 - `Pasta img`:  Pasta que contêm imagens referente ao site;
 - `Readme.md`:  Descrição do projeto markdown;
-
-- `imagens`:  Imagens relacionadas a cada página do projeto. <br><br>
+ <br><br>
 
 ## Serviços utilizados para pesquisas
  
