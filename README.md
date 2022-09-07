@@ -52,7 +52,9 @@ O Bootstrap é uma ferramenta gratuita para desenvolvimento HTML, CSS e JS. Crie
 
  
 ## 📁 Acesso ao projeto
-
+- É possível baixar o projeto no próprio github ou navegar em uma plataforma web onde o site está hospedado que é uma plataforma gratuíta 000webhost. Basta clica na imagem abaixo para que será direcionado ao conteúdo.
+#### 
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-danger-electrician-flaticons-lineal-color-flat-icons.png" width="40px"/> Como o site está hospedado em uma plataforma gratuíta pode ocorrer erro na hora de carregar à página pelo modo de segurança.
 
 ## 🛠️ Abrir e rodar o projeto
 ## Links
@@ -63,8 +65,6 @@ O Bootstrap é uma ferramenta gratuita para desenvolvimento HTML, CSS e JS. Crie
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZxQ5EWDk8bYqaUQpFeGFj2Phg8bSK5iLMEwcJd-Egw46QDwOl8_BuNw6_mBhyjl5BO4&usqp=CAU" width="50px" border="5px"> </a>
 </P>
 
-- É possível baixar o projeto no próprio github ou navegar através do site que está hospedado em uma plataforma gratuíta.
-Basta clicar nas imagens acima que será direcionado ao conteúdo.
 
 
 ## Features
